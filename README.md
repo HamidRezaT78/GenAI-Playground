@@ -1,6 +1,6 @@
 # 🧠 GenAI-Playground
 
-A lightweight, modular playground for experimenting with Generative AI features like prompt engineering, few-shot learning, structured JSON output, retrieval-augmented generation (RAG), and simple function calling — powered by **Google Gemini 2** or **OpenAI GPT**.
+A lightweight, modular playground for experimenting with Generative AI features like prompt engineering, few-shot learning, structured JSON output, retrieval-augmented generation (RAG), and simple function calling  powered by **Google Gemini 2** or **OpenAI GPT**.
 
 ---
 
